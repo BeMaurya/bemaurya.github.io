@@ -10,8 +10,8 @@ const settings = {
 //Home Page
 const greeting = {
   title: "नमस्ते 🙏🏻.",
-  title2: "BeWithMaurya",
-  logo_name: "BeWithMaurya",
+  title2: "BeMaurya",
+  logo_name: "BeMaurya",
   nickname: "shubh / maurya",
   full_name: "Shubham Kumar",
   subTitle:
@@ -23,13 +23,13 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/bewithmaurya",
-  linkedin: "https://www.linkedin.com/in/bewithmaurya/",
+  github: "https://github.com/bemaurya",
+  linkedin: "https://www.linkedin.com/in/bemaurya/",
   gmail: "bewithmaurya@gmail.com",
-  gitlab: "https://gitlab.com/bewithmaurya",
-  facebook: "https://www.facebook.com/bewithmaurya/",
+  gitlab: "https://gitlab.com/bemaurya",
+  facebook: "https://www.facebook.com/bemaurya/",
   twitter: "https://twitter.com/bewithmaurya",
-  instagram: "https://www.instagram.com/bewithmaurya/",
+  instagram: "https://www.instagram.com/bemaurya/",
 };
 
 const skills = {
